@@ -76,7 +76,8 @@ Após iniciar a aplicação, siga estes passos para testar o conector:
 5.  No painel de configuração, defina os valores de `Min` e `Max`.
 6.  Clique em **"Execute step"** para executar o nó e ver o número aleatório gerado na aba "Output".
 
-![WhatsApp Image 2025-09-24 at 10 04 50 PM](https://github.com/user-attachments/assets/773f749e-cb7d-4c99-965a-65434b1a441d)
+<img width="1808" height="835" alt="image" src="https://github.com/user-attachments/assets/08ca0049-ccd0-4965-9b3c-f927d2a4bbac" />
+
 
 
 ---
