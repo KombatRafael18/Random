@@ -87,6 +87,12 @@ Este projeto foi desenhado para ser executado **"out-of-the-box"**, sem a necess
 
 ---
 
+## Testes
+
+A verificação da funcionalidade do nó deve ser realizada manualmente através da interface do n8n, conforme descrito na seção **"Como Usar o Nó no n8n"**.
+
+---
+
 ## Estrutura do Projeto e Ferramentas
 
 O projeto está organizado seguindo as convenções da comunidade n8n e utilizando um conjunto de ferramentas modernas para garantir a qualidade, consistência e portabilidade do código. Abaixo está a descrição detalhada da estrutura e do papel de cada arquivo relevante.
