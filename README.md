@@ -76,7 +76,8 @@ Após iniciar a aplicação, siga estes passos para testar o conector:
 5.  No painel de configuração, defina os valores de `Min` e `Max`.
 6.  Clique em **"Execute step"** para executar o nó e ver o número aleatório gerado na aba "Output".
 
-<img width="1808" height="835" alt="image" src="https://github.com/user-attachments/assets/08ca0049-ccd0-4965-9b3c-f927d2a4bbac" />
+<img width="1796" height="852" alt="image" src="https://github.com/user-attachments/assets/5b1c3355-1ca3-43c2-b094-4c24b324e6de" />
+
 
 
 
