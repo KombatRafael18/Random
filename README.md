@@ -76,7 +76,9 @@ Após iniciar a aplicação, siga estes passos para testar o conector:
 5.  No painel de configuração, defina os valores de `Min` e `Max`.
 6.  Clique em **"Execute step"** para executar o nó e ver o número aleatório gerado na aba "Output".
 
-![WhatsApp Image 2025-09-24 at 10 04 50 PM](https://github.com/user-attachments/assets/773f749e-cb7d-4c99-965a-65434b1a441d)
+<img width="1796" height="852" alt="image" src="https://github.com/user-attachments/assets/5b1c3355-1ca3-43c2-b094-4c24b324e6de" />
+
+
 
 
 ---
@@ -84,6 +86,12 @@ Após iniciar a aplicação, siga estes passos para testar o conector:
 ## Configuração de Ambiente
 
 Este projeto foi desenhado para ser executado **"out-of-the-box"**, sem a necessidade de configurar variáveis de ambiente (`.env`). Todas as configurações necessárias para a comunicação entre o n8n e o banco de dados, bem como para o carregamento do nó customizado, estão contidas nos arquivos `docker-compose.yml`.
+
+---
+
+## Testes
+
+A verificação da funcionalidade do nó deve ser realizada manualmente através da interface do n8n, conforme descrito na seção **"Como Usar o Nó no n8n"**.
 
 ---
 
