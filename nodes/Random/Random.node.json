@@ -1,0 +1,12 @@
+{
+    "node": "n8n-nodes-random.Random",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": [
+        "Utility"
+    ],
+    "resources": {
+        "credentialDocumentation": [],
+        "primaryDocumentation": []
+    }
+}
